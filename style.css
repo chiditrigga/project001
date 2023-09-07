@@ -1,8 +1,33 @@
 body{
-    background: yellowgreen;
+    background: rgb(134, 134, 134);
 }
 
 img{
     max-width: 300px;
+   
     
+    
+}
+
+
+#day ,.day{
+    color:  burlywood;
+    
+}
+
+#time ,.time{
+    color:  snow;
+}
+
+
+.track{
+    color: rgb(87, 40, 40);
+}
+
+.git{
+    color: cornsilk;
+}
+
+.name{
+    color: rgba(160, 255, 71, 0.747);
 }
